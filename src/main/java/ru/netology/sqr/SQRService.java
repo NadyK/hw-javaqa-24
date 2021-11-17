@@ -5,7 +5,7 @@ public class SQRService {
         int number = 0;
         for (int i = 10; i <= 99; i++) {
 
-            if (i*i>=lower && i*i<=upper) {
+            if (i * i >= lower && i * i <= upper) {
                 number++;
             }
         }
