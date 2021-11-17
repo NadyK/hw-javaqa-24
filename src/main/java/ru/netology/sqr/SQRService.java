@@ -8,9 +8,6 @@ public class SQRService {
             if (i*i>=lower && i*i<=upper) {
                 number++;
             }
-
-
-
         }
         return number;
     }
